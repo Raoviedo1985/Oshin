@@ -1,3 +1,1 @@
 setwd("~/Desktop/Oshin")
-
-chupalo
